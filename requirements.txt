@@ -1,0 +1,6 @@
+jax
+jaxlib
+matplotlib
+ray[tune]
+tqdm
+seaborn
